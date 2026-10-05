@@ -44,3 +44,26 @@ Smart-Expense-Tracker/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+
+## Screenshots
+
+### Dashboard
+The dashboard provides an overview of total spending, average expense, highest expense, top spending category, and monthly budget status.
+
+![Expense Dashboard](screenshots/dashboard.png)
+
+### Category Spending Chart
+Visualizes total spending across different expense categories.
+
+![Category Spending Chart](screenshots/category-chart.png)
+
+### Monthly Spending Chart
+Shows spending trends across different months.
+
+![Monthly Spending Chart](screenshots/monthly-chart.png)
+
+### Expense Distribution
+Displays the percentage distribution of expenses by category.
+
+![Expense Distribution](screenshots/pie-chart.png)
